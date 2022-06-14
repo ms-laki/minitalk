@@ -15,7 +15,7 @@
 #include <stdio.h>
 #include <signal.h>
 #include <string.h>
-#include "ft_printf.h"
+#include "ft_printf/ft_printf.h"
 
 void	send_bit(int pid, char *str, size_t len)
 {
