@@ -19,4 +19,4 @@ To run the program, you need 2 iTerm open.
 3. Copy the PID number and in the other iTerm, type `./client [PID number] “your message here in quotation marks”`
 4. You should see your message from one iTerm to the another iTerm.
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/87255552/173817658-f2d90ab0-7a85-41c4-9283-70ef42923772.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/87255552/173818017-6ec1b118-fb16-4cef-9062-1bb8c47130d9.gif)
