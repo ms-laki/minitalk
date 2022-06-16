@@ -17,7 +17,7 @@ To run the program, you need 2 iTerm open.
 1. First type `make` into both iTerm
 2. Then in one iTerm, type `./server` . This will give you a number that is the server PID number.
 3. Copy the PID number and in the other iTerm, type `./client [PID number] “your message here in quotation marks”`
-4. You should see your message from one iTerm to the another iTerm.
+4. You should see your message from one iTerm to the other iTerm.
 
 ## Video: How to Run Minitalk
 
