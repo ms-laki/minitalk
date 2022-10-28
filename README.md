@@ -1,15 +1,6 @@
-# Minitalk
+# My Minitalk Results
 
-## Description
-The purpose of this project is to code a small data exchange program using UNIX signals. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.
-
-## Keywords
-Unix logic
-
-## Skills
-Unix
-Rigor
-
+<img width="900" alt="Screen Shot 2022-10-28 at 8 29 05 PM" src="https://user-images.githubusercontent.com/87255552/198560930-d00b2c94-f713-4d00-a589-665ef00457ba.png">
 
 ## How to Run Minitalk
 To run the program, you need 2 iTerm open.
